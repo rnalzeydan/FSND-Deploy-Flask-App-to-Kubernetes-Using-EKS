@@ -5,7 +5,6 @@ aws-auth-patch.yml
 *.pyc
 *.pyo
 env/
-env*
 dist/
 build/
 *.egg
